@@ -4,18 +4,7 @@
       "id": 1,
       "nombre": "Enrique",
       "afiliado": true,
-      "transacciones": [{
-          "fecha": "04/06/2021",
-          "monto": 1852,
-         },
-         {
-          "fecha": "04/06/2021",
-          "monto": 1234,
-         },
-         {
-          "fecha": "04/06/2021",
-          "monto": 4321,
-         },],
+      "transacciones": "jhsbijs"
     },
   ],
 }
