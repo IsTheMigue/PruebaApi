@@ -6,17 +6,17 @@
       "afiliado": true,
       "transacciones": [{
           "fecha": "04/06/2021",
-          "monto": 1852
+          "monto": 1852,
          },
          {
           "fecha": "04/06/2021",
-          "monto": 1234
+          "monto": 1234,
          },
          {
           "fecha": "04/06/2021",
-          "monto": 4321
+          "monto": 4321,
          }],
-    }
+    },
     {
       "id": 2,
       "nombre": "Erika",
@@ -27,30 +27,30 @@
          },
          {
           "fecha": "03/06/2021",
-          "monto": 2000
+          "monto": 2000,
          },
          {
           "fecha": "02/06/2021",
-          "monto": 1000
+          "monto": 1000,
          }],
       
-    }
+    },
     {
       "id": 3,
       "nombre": "Luis",
       "afiliado": true,
       "transacciones": [{
           "fecha": "04/02/2021",
-          "monto": 800
+          "monto": 800,
          },
          {
           "fecha": "03/01/2021",
-          "monto": 350
+          "monto": 350,
          },
          {
           "fecha": "02/26/2021",
-          "monto": 500
+          "monto": 500,
          }],
-    }
-  ]
+    },
+  ],
 }
